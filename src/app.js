@@ -4,7 +4,7 @@
 const express = require("express");
 const app = express();
 
-const PORT = 3001;
+
 
 //라우팅
 const home = require("./routes/home");
